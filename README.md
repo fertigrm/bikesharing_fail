@@ -16,3 +16,9 @@ Below is a heatmap showing the trips by gender and status with the platform(subs
 
 We can also see an overall view of bike trips by gender during the week and the hours of popularity 
 ![Trips_by_gender(weekday)](https://user-images.githubusercontent.com/102084269/178376367-8e1485b1-bfe3-45e1-ac10-96ccb858b5ee.PNG)
+
+This viz shows us the top starting locations for the bike sharing service
+![top_starting_locations](https://user-images.githubusercontent.com/102084269/178376633-7605b644-a3c5-419e-9dfe-2c1ccce87753.PNG)
+
+# Summary
+This analysis providing us with a multitude of data, a big takeaway from the data shows a very high level of activity during the month of August in the year 2019, with a majority of the rides taking place in Manhattan. The data also shows us a more male heavy userload during most hours of the day.
