@@ -22,3 +22,6 @@ This viz shows us the top starting locations for the bike sharing service
 
 # Summary
 This analysis providing us with a multitude of data, a big takeaway from the data shows a very high level of activity during the month of August in the year 2019, with a majority of the rides taking place in Manhattan. The data also shows us a more male heavy userload during most hours of the day.
+- Food for thought:
+- Including weather data to see how that determines rider use
+- Analyze more months
